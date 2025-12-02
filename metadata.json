@@ -1,0 +1,5 @@
+{
+  "name": "PastelFlow Image Editor",
+  "description": "A cute, workflow-styled image editor powered by Gemini 2.5 Flash Image. Upload an image and use text prompts to transform it with style.",
+  "requestFramePermissions": []
+}
